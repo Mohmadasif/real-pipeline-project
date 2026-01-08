@@ -1,2 +1,0 @@
-This is a dummy test file.
-If this file exists, test will pass.
